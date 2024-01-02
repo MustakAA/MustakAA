@@ -1,6 +1,6 @@
                                                                                                                                                      
 <h1 align="center">Hi 👋, I'm Mustak Ahamed ( Ashik )</h1>
-<h3 align="center">Very passionate about Data Science and Machine Learning</h3>
+<h3 align="center">Very passionate about Data Science and Cybersecurity</h3>
 
 - 🔭 I’m currently working on **a Data Analytics project**
 
